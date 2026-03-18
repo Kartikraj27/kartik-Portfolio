@@ -90,7 +90,7 @@ I build modern, responsive websites using HTML, CSS, JavaScript, PHP and MySQL.
 <!-- CONTACT -->
 <section id="contact" data-aos="fade-left">
 <h2>Contact</h2>
-<p>Email: kartik898708@email.com</p>
+<p>Email: kartikraj898708@email.com</p>
 <p>GitHub: github.com/kartikraj27</p>
 </section>
 
